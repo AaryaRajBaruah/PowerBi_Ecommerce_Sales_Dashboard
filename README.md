@@ -75,4 +75,3 @@ Delivered a **comprehensive and user-friendly dashboard** that enables business 
 
 ---
 
-Let me know if you'd like this exported as a `.md` file for direct GitHub upload.
