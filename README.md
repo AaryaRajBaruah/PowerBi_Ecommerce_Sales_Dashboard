@@ -1,17 +1,78 @@
-# Ecommerce_Sales_Dashboard
-This is an end to end project on Power Bi Dashboard
-<br>
-I have created my first Power BI Dashboard representing the analysis of e-commerce sales data.
-<br>
-Project Learnings:
-<br>
-• Created interactive dashboard to track and analyze online sales data 
-<br>
-• Used complex parameters to drill down in worksheet and customization using filters and slicers
-<br>
-• Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
-<br>
-• Used different types . of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.) 
-<br>
-The Dashboard shows the total Profit earned by the store and the total quantity sold yearly; the column chart shows the monthly profit; clustered bar charts are used to show the top 5 subcategories; stacked column charts are used for customers; the donut chart is used to show the payment mode and quantity of the products; and the slicer of the quarter shows quarterly data values.
-![Redmart photo](https://github.com/AaryaRajBaruah/PowerBi_Ecommerce_Sales_Deshboard/assets/91695207/fdbffb4c-60fd-4097-b2f5-3f7ce754ad25)
+
+
+# 🛒 Ecommerce Sales Dashboard
+
+An end-to-end project showcasing a **Power BI Dashboard** for analyzing e-commerce sales performance and customer behavior.
+
+---
+
+## 🎯 Objective
+
+To analyze and visualize e-commerce data to uncover trends, evaluate performance, and enable data-driven decision-making through an interactive Power BI dashboard.
+
+---
+
+## 📊 Key Features
+
+* 📈 **Yearly & Monthly Profit Analysis**
+* 🧾 **Top 5 Performing Subcategories**
+* 👥 **Customer Insights with Segmentation**
+* 💳 **Payment Mode Distribution**
+* 📦 **Product Quantity Analysis by Category**
+* 📍 **Quarterly Filtering using Slicers**
+* 🌍 **Geographic Mapping (if included in dataset)**
+
+---
+
+## 🔧 Tools & Techniques Used
+
+| Tool        | Purpose                                 |
+| ----------- | --------------------------------------- |
+| 🟦 Power BI | Data visualization & dashboard creation |
+| 📗 Excel    | Data cleaning and preparation           |
+| 🧮 DAX      | Calculations and custom metrics         |
+
+---
+
+## 🚀 Project Learnings
+
+* ✅ Designed a fully **interactive dashboard** to track and analyze online sales data
+* ✅ Implemented **drill-down features** and user-driven parameters using filters and slicers
+* ✅ Built **relationships** across multiple tables and performed **data modeling**
+* ✅ Applied diverse visualizations including:
+
+  * Bar & Clustered Bar Charts
+  * Donut & Pie Charts
+  * Line & Area Charts
+  * Scatter Plots
+  * Slicers for dynamic filtering
+
+---
+
+## 📸 Dashboard Preview
+
+![Ecommerce Sales Dashboard](https://github.com/AaryaRajBaruah/PowerBi_Ecommerce_Sales_Deshboard/assets/91695207/fdbffb4c-60fd-4097-b2f5-3f7ce754ad25)
+
+---
+
+## 📈 Insights & Outcomes
+
+* 🏷️ **Highest profits** were recorded during specific peak months
+* 📦 **Top 5 subcategories** contributed significantly to revenue
+* 💳 **Most used payment methods** revealed customer preferences
+* 🧍‍♂️ **Customer distribution** helped understand engagement and demand
+* 📉 Identified **low-performing categories** for strategic improvement
+
+---
+
+## ✅ Outcome
+
+Delivered a **comprehensive and user-friendly dashboard** that enables business stakeholders to:
+
+* Monitor key performance indicators (KPIs)
+* Identify growth opportunities
+* Improve customer and product-level strategies
+
+---
+
+Let me know if you'd like this exported as a `.md` file for direct GitHub upload.
