@@ -1,4 +1,4 @@
-# RedMart_Ecommerce_Sales_Dashboard
+# Ecommerce_Sales_Dashboard
 This is an end to end project on Power Bi Dashboard
 <br>
 I have created my first Power BI Dashboard representing the analysis of e-commerce sales data.
